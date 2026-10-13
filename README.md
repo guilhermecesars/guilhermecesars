@@ -17,6 +17,7 @@ de sites comerciais a uma aplicação em Java com API e deploy. Em busca da
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ### 🚀 Projetos em destaque
+- **[Sistema Varandas](https://github.com/guilhermecesars/sistema-varandas)** — aplicação desktop em Java (JavaFX + SQLite) para pedidos de restaurante, organizada em camadas e empacotada com Maven.
 - **[Agente Garimpeiro](https://github.com/guilhermecesars/agente-garimpeiro)** — aplicação em Java (servidor HTTP próprio) que busca e filtra produtos via API externa, com front-end web e deploy em Docker.
 - **[Portfólio](https://github.com/guilhermecesars/guilhermecesars.github.io)** — meu site pessoal de desenvolvedor.
 - **[GCs Enterprise](https://github.com/guilhermecesars/gcs-enterprise)** — site comercial de automação de atendimento via WhatsApp.
